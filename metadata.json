@@ -1,0 +1,5 @@
+{
+  "name": "E-Commerce Platform",
+  "description": "A full-stack e-commerce platform with customer and admin interfaces, similar to Amazon or Flipkart.",
+  "requestFramePermissions": []
+}
